@@ -1,0 +1,32 @@
+body{
+    font-size: 19px;
+}
+.heading{
+    color: blue;
+    font-size: 20px;
+}
+.heading p{
+    color: black;
+    font-size: 19px;
+}
+.body{
+    font-size: 19px;
+}
+.body img{
+    width: 100%;
+}
+.body p strong{
+    color: blue;
+    cursor: pointer;
+}
+.body2 h1{
+    color: blue;
+    font-size: 15px;
+}
+.body2 img{
+    width: 100%;
+}
+.body3 strong{
+    color: blue;
+    cursor: pointer;
+}
